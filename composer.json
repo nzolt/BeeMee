@@ -1,0 +1,26 @@
+{
+    "name": "Time2/BeeQueen",
+    "description": "Package for querying multiple Bee hit game",
+    "type": "project",
+    "license": "OSL 3.0",
+    "authors": [
+        {
+            "name": "Zoltan Nagy",
+            "email": "zoltan.nagy@time2.digital"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+    },
+    "autoload": {
+        "psr-0": {
+            "": ""
+        },
+        "psr-4": {
+            "BeeMee\\": "src/"
+        }
+
+    },
+    "require-dev": {
+    }
+}
